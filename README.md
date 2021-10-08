@@ -4,8 +4,8 @@ Bienvenue sur mon dépôt git, je m'appelle Nicolas Tournier. Je suis docteur en
 
 Actuellement :
 
-- 🔭 Je travaille sur la nouvelle version de mon site en tant que projet personnel
-- 🌱 J'apprends le JavaScript et son écosystème coté frontend
+- 🔭 Je passe plus de temps du côté Ops que du côté Dev.
+- 🌱 J'apprends le Terraform !
 
 ## 👨‍💻 Expérience professionnelle
 
