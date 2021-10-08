@@ -5,7 +5,7 @@ Bienvenue sur mon dépôt git, je m'appelle Nicolas Tournier. Je suis docteur en
 Actuellement :
 
 - 🔭 Je passe plus de temps du côté Ops que du côté Dev.
-- 🌱 J'apprends le Terraform !
+- 🌱 J'apprends Terraform !
 
 ## 👨‍💻 Expérience professionnelle
 
