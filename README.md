@@ -9,20 +9,26 @@ Actuellement :
 
 ## 👨‍💻 Expérience professionnelle
 
-- Consultant DevOps
-- Ingénieur développement web
-- Ingénieur R&D sécurisation multimédia
-- Enseignant vacataire en IUT
+- Consultant DevOps (depuis 2018)
+- Ingénieur développement web (pendant 2 ans)
+- Ingénieur R&D sécurisation multimédia (pendant 4 ans)
+- Enseignant vacataire en IUT (pendant 2 ans)
 
 ## 👨‍🎓 Parcours scolaire
 
-- Doctorat en informatique, sécurisation multimédia
-- Master en informatique, combinatoire, algorithmique, sécurté et administration des réseaux
-- License en mathématique
+- Doctorat en informatique, sécurisation multimédia (2014)
+- Master en informatique, combinatoire, algorithmique, sécurté et administration des réseaux (2008)
+- License en mathématique (2006)
 
-## 📖 Publications scientifiques
+## 📓 Publications scientifiques
 
 Pour plus d'informations, les ressources bibliographiques sont disponibles sur ma page personnelle dans la rubrique [publications](http://www.nicolas-tournier.com/web/publications.php).
+
+### 📖 Articles Medium
+
+- Compliance testing for containers (2022)
+- Static security analysis of Java application dependencies (2022)
+- Code quality testing with SonarQube and Gitlab CI for PHP applications (2022)
 
 ### 🗺️ Revue internationale
 
@@ -37,25 +43,8 @@ Pour plus d'informations, les ressources bibliographiques sont disponibles sur m
 
 ### 🇫🇷 Conférences nationales
 
+- Trust but verify (Polycloud - 2022)
+- REX: Migration d'une application legacy dans un cluster K8S (DevOps D-Day - 2018)
 - "Filigrane" numérique pour les maillages 3D (DOCTISS - 2011)
 - Etude de la robustesse des ACPM dans le cadre du tatouage 3D (AFIG - 2009)
 - Tatouage hiérarchique d'un message hiérarchique en vue de la protection vidéo (CORESA - 2009)
-
-<!--
-# 🇬🇧 Hi there 👋
-
-Welcome, this is my Github repository and I am Nicolas Tournier. I am doctor in computer science, computer science consultant in order to implement best practices from the DevOps methodology, trainer and developer.
-
-**n1c0l4stournier/n1c0l4stournier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
