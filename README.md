@@ -1,11 +1,11 @@
-# 🇫🇷 Bonjour 👋
+# Bonjour 👋
 
 Bienvenue sur mon dépôt git, je m'appelle Nicolas Tournier. Je suis docteur en informatique, consultant développement informatique dans la mise en place des pratiques du mouvement DevOps, formateur et développeur.
 
 Actuellement :
 
 - 🔭 Je passe plus de temps du côté Ops que du côté Dev.
-- 🌱 J'apprends Terraform !
+- 🌱 Je diversifie mes connaissances autour de la donnée, l'intelligence artificielle et la sécurité
 
 ## 👨‍💻 Expérience professionnelle
 
@@ -41,7 +41,7 @@ Pour plus d'informations, les ressources bibliographiques sont disponibles sur m
 - Finding Robust Vertices for 3D Synchronization Based on Euclidean Minimum Spanning Tree (SPIE 3DIP - 2011)
 - Sensitivity Analysis of Euclidean Minimum Spanning Tree (SPIE 3DIP - 2010)
 
-### 🇫🇷 Conférences nationales
+### 🗺️ Conférences nationales
 
 - Trust but verify (Polycloud - 2022)
 - REX: Migration d'une application legacy dans un cluster K8S (DevOps D-Day - 2018)
