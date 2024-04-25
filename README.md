@@ -22,8 +22,6 @@ Actuellement :
 
 ## 📓 Publications scientifiques
 
-Pour plus d'informations, les ressources bibliographiques sont disponibles sur ma page personnelle dans la rubrique [publications](http://www.nicolas-tournier.com/web/publications.php).
-
 ### 📖 Articles Medium
 
 - Compliance testing for containers (2022)
